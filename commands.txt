@@ -4,3 +4,4 @@ git pull =>remote changes in remote repository to local work
 git init => for initializing
 git add -A 
 git commit -m "message"
+git status =>to list all untracked files
